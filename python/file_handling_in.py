@@ -1,0 +1,1 @@
+# You can read an entire file or read the file line by line
