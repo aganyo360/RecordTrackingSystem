@@ -1,5 +1,3 @@
-# lets do a recap first
-filename ="../pi.txt"
-with open(filename) as file_object:
-    content = file_object.read()
-    print(content.rstrip())
+write_file = '../pi.txt'
+with open(write_file, "w") as file_object:
+    file_object.write( ' I am learnning reading and writing to files')
