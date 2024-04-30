@@ -1,0 +1,4 @@
+ I am learnning reading and writing to files
+ this should create a new line
+ it just work 
+ this is the fourth line
