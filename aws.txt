@@ -1,2 +1,0 @@
-elastic compute cloud
-simple storage service
